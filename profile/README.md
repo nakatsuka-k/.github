@@ -1,7 +1,17 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatsuka-k&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nakatsuka-k&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+# ⟡ SYSTEM PROFILE ⟡
+<img width="220" height="220" alt="image" src="https://media.tenor.com/s-CAKKu2HFMAAAAM/anime-glitched-anime.gif" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nakatsuka-k&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+I operate in layers most people never look at.
+
+Between interfaces and infrastructure.  
+Between intention and execution.  
+Between what is visible and what simply *works*.
+
+---
+
+## ⟁ Approach
+
+I do not build features in isolation.  
+I design systems as **living structures** —  
+where every component has weight,  
+and every dependency introduces gravity.
